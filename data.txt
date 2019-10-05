@@ -1,0 +1,3 @@
+Name: Are
+Age: 32
+Favorite Color: Purple
